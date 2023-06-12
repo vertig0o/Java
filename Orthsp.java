@@ -29,7 +29,7 @@ public class Orthsp {
         int toplam = (mat + fizik + kimya + tarih + muzik + turkce);
         double sonuc = (toplam / 6.0);
         
-          System.out.println("Ders ORTALAMANIZ .: " + sonuc);
+        System.out.println("Ders ORTALAMANIZ .: " + sonuc);
         System.out.println(sonuc < 60 ? "UZGUNUM KALDINIZ :(" : "TEBRIKLER GECTINIZ");
 
     }
