@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class combination {
+public class Combination {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             System.out.print("N değerini giriniz: ");
